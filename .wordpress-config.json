@@ -1,0 +1,15 @@
+{
+  "baseUrl": "spider.ussl.co.il/weadvertise",
+  "protocol": "https",
+  "hostingWPCOM": false,
+  "useACF": true,
+  "includedRoutes": [
+    "**/categories",
+    "**/posts",
+    "**/pages",
+    "**/media",
+    "**/tags",
+    "**/taxonomies",
+    "**/users"
+  ]
+}
