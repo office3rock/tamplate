@@ -1,5 +1,5 @@
 {
-  "baseUrl": "spider.ussl.co.il/weadvertise",
+  "baseUrl": "spider.ussl.co.il/{{REPO_NAME}}",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
